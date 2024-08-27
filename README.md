@@ -13,3 +13,14 @@ Model merging offers an effective strategy to combine the strengths of multiple 
 Both the vision and language experiments in the paper can be reproduced in the corresponding folders. Please check the readme in the folders for details on the finetuned checkpoints, data and running the code.
 
 # Citation
+```
+@misc{he2024localizeandstitchefficientmodelmerging,
+      title={Localize-and-Stitch: Efficient Model Merging via Sparse Task Arithmetic}, 
+      author={Yifei He and Yuzheng Hu and Yong Lin and Tong Zhang and Han Zhao},
+      year={2024},
+      eprint={2408.13656},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2408.13656}, 
+}
+```
